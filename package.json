@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^13.11.0",
+    "fs": "^0.0.1-security",
+    "mcapi": "^1.0.1",
+    "node-fetch": "^3.2.10"
+  }
+}
